@@ -1,6 +1,5 @@
 # CS121
-Assignments and Labs for CS121 (Program Design and Development C/C++) at WSU.
-Professor: Andy O'Fallon
+Assignments and Labs for CS121 (Program Design and Development C/C++) at WSU, taught by Andy O'Fallon. This code is from the Fall 2011 course.
 
 This repository contains all my code and miscellaneous files for CS121 that I could find. There is no guarentee on any of it working perfectly, particularly Programming Assignment 6 (Battleship).
 
