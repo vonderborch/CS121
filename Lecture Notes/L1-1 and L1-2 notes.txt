@@ -1,0 +1,27 @@
+/*******************************************************************************************
+* Programmer: Christian Webber
+* Class: Cpt S 121, Spring 2011; Lab Section X
+* Programming Assignment: In Class Coding Example
+* Date: August 29, 2011
+* Description: This program computes the volume of a cone.
+*******************************************************************************************/
+
+#include <stdio.h> // printf(), scanf()
+
+#define PI 3.14159
+
+int main (void)
+{
+	int height = 0, radius = 0, volume = 0;
+	
+	//int radius = 0;
+	
+	printf("Enter radius and height: ");
+	scanf("%d%d", &radius, &height);
+	
+	volume = (1 / 3) * PI * radius * radius * height;
+	
+	printf("Volume: %d\n", volume);
+	
+	return 0;
+}

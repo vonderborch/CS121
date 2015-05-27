@@ -1,0 +1,10 @@
+#ifndef CRAPS_H
+#define CRAPS_H
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void start_game (void);
+int is_valid_option (int option);
+
+#endif

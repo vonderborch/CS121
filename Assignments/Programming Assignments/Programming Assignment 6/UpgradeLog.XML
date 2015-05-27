@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Programming Assignment 6">
+</Property><Property Name="Solution File" Value="C:\Users\Ricky\Documents\School\Fall 2011\CPT S\cpts121\Assignments\Programming Assignments\Programming Assignment 6\Programming Assignment 6.sln">
+</Property><Property Name="Date" Value="Sunday, June 16, 2013">
+</Property><Property Name="Time" Value="16:22 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Programming Assignment 6" Source="Programming Assignment 6\Programming Assignment 6.vcproj" Description="Converting project file 'C:\Users\Ricky\Documents\School\Fall 2011\CPT S\cpts121\Assignments\Programming Assignments\Programming Assignment 6\Programming Assignment 6\Programming Assignment 6.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Programming Assignment 6" Source="Programming Assignment 6\Programming Assignment 6.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Programming Assignment 6" Source="Programming Assignment 6\Programming Assignment 6.vcproj" Description="Done converting to new project file 'C:\Users\Ricky\Documents\School\Fall 2011\CPT S\cpts121\Assignments\Programming Assignments\Programming Assignment 6\Programming Assignment 6\Programming Assignment 6.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Programming Assignment 6" Source="Programming Assignment 6\Programming Assignment 6.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Programming Assignment 6.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Programming Assignment 6.sln" Description="Converted">
+</Event></UpgradeLog>

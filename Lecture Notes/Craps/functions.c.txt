@@ -1,0 +1,26 @@
+#include "craps.h"
+
+void start_game (void)
+{
+	int option = 0;
+	do
+	{
+		printf ("1. Display Rules\n");
+		printf ("2. Get Balance\n");
+		printf ("3. Start Game\n");
+		printf ("4. Quit\n");
+
+		scanf ("%d", &option);
+		system ("cls");
+	} while (!is_valid_option (option));
+}
+
+int is_valid_option (int option)
+{
+	int is_valid = 0;
+	if ((option >= 1) && (option <= 4))
+	{
+		is_valid = 1;
+	}
+	return is_valid;
+}

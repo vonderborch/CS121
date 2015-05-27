@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab4Task2", "Lab4Task2\Lab4Task2.vcproj", "{54E79BE7-7771-4BE4-BDC1-7566B08EFA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E79BE7-7771-4BE4-BDC1-7566B08EFA78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54E79BE7-7771-4BE4-BDC1-7566B08EFA78}.Debug|Win32.Build.0 = Debug|Win32
+		{54E79BE7-7771-4BE4-BDC1-7566B08EFA78}.Release|Win32.ActiveCfg = Release|Win32
+		{54E79BE7-7771-4BE4-BDC1-7566B08EFA78}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

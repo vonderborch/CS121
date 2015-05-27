@@ -1,0 +1,13 @@
+
+/*************************************************************
+ * Function: main ()
+ * Date Created: October 7th, 2011
+ * Date Last Modified: October 14th, 2011
+ * Description: This function is the primary control function of the
+ *							program, from whence all other functions
+ *							are called from as needed.
+ * Input parameters: None
+ * Returns: Nothing
+ * Preconditions: Equations/Problems need to be solved.
+ * Postconditions: Equations/Problems solved.
+ *************************************************************/

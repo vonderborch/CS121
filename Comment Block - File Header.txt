@@ -1,0 +1,27 @@
+
+/**********************************************************************************************
+ * Programmer: Christian Webber
+ * Class: CptS 121, Fall 2011; Lab Section 3
+ * Programming Assignment: Programming Assignment 2
+ * Created: October 7th, 2011
+ * Last Revised: October 14th, 2011
+ * Description: This program evaluates seven different equations/problems.
+ *              The constants represent coefficients and
+ *              coordinates that are used in the provided equations.
+ *              The user is prompted to enter the constants, and the formulas
+ *              listed below are evaluated based on the user input.
+ *              The equations are displayed with the constants and results.
+ *
+ * Relevant Formulas: 
+ *          1 - Newton's 2nd Law: force = mass * acceleration
+ *          2 - Volume of a cylinder: volume_cylinder = PI * radius^2 * cylinder_height
+ *          3 - Character encoding: encoded_character = (plaintext_character + 4)
+ *          4 - Atomic mass of phosphate: phophate_atomic_mass = 3 * hydrogen_mass +
+ *                                       4 * oxygen_mass + phosphorous_mass
+ *          5 - Height of projectile: projectile_height = -16 * time^2 + initial_velocity * time +
+ *                                                       initial_height
+ *          6 - Current through circuit: current = sqrt (power / resistance)
+ *          7 - General equation: y = (3 / 4) * x - z / (a % 2) + PI
+ *
+ * File Description: "main.c" contains the main() function from which the entire program is run.
+ *********************************************************************************************/
